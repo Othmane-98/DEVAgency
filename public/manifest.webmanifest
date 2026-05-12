@@ -1,0 +1,16 @@
+{
+  "name": "DevAgence",
+  "short_name": "DevAgence",
+  "description": "Agence digitale spécialisée en logiciels métiers, sites web et intégrations sur mesure.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1120",
+  "theme_color": "#0b1120",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
